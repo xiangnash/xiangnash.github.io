@@ -4,9 +4,9 @@
   
     
     <entry>
-      <title><![CDATA[Hello World]]></title>
-      <url>http://blog.xiangnash.com/2017/01/24/Hello-World/</url>
-      <content type="html"><![CDATA[<p>Hello World.</p>
+      <title><![CDATA[Hello, World!]]></title>
+      <url>http://blog.xiangnash.com/2017/01/24/Hello_World/</url>
+      <content type="html"><![CDATA[<p>Hello, world.</p>
 <p>With about 2 hours of work, blog.xiangnash.com is back.</p>
 ]]></content>
     </entry>
